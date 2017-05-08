@@ -11,8 +11,8 @@ initialized in div tags within a page. Example:
     var mySnakeBoard = new SNAKE.Board( {
                                             boardContainer: "game-area",
                                             fullScreen: false,
-                                            width: 580,
-                                            height:400
+                                            width: 100,
+                                            height:100
                                         });
                                     
 The comments are formatted a little strange because at the time I was playing
